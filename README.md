@@ -1,0 +1,2 @@
+# LocalStore
+Atividade JS
